@@ -1,6 +1,7 @@
 административный		        administrative
 власть				              power
 вооруженные силы		        armed forces
+внешняя политика            foreign policy
 внутренняя политика		      domestic policy
 выполнять                   fulfill
 выборы                      elections
@@ -42,4 +43,3 @@
 судебный			              judicial
 суверенитет			            sovereignty
 целостность			            integrity
-
