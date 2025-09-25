@@ -4,7 +4,7 @@
 внутренняя политика		      domestic policy
 выполнять                   fulfill
 выборы                      elections
-выступать против законопр.	oppose of bill
+выступать против законопр.	oppose a bill
 ветвь	                      branch
 глава                       head
 гос. награда			          state honour
@@ -24,15 +24,15 @@
 нижняя\верхняя палата		    chamber upper\lower
 общая юрисдикция, суд		    universalcourt
 одобрять			              approve
-палата представителей		    hous of representatives
-подписывать			            sing
-помиловать			            grand pardon
+палата представителей		    house of representatives
+подписывать			            sign
+помиловать			            grant pardon
 представитель			          represent
 предложение			            suggestion
 предлагать			            propose
 председатель			          chairman
 противоречить			          contradict
-правительство			          goverment
+правительство			          government
 принадлежать чему\кому-то	  belong to
 совет республики 		        council of the republic
 совет безопасности 		      security council
@@ -41,4 +41,5 @@
 суд общей юрисдикции        universal court
 судебный			              judicial
 суверенитет			            sovereignty
-целостность			            integity
+целостность			            integrity
+
