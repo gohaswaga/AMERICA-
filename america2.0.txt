@@ -1,38 +1,44 @@
-
-административный		administrative
-безопасность, совет		security council
-власть				power
-вооруженные силы		armed forces
-внутренняя политика		domestic policy
+административный		        administrative
+власть				              power
+вооруженные силы		        armed forces
+внутренняя политика		      domestic policy
+выполнять                   fulfill
+выборы                      elections
 выступать против законопр.	oppose of bill
-ветвь				branch
-гос. награда			state honour
-гражданский			civil
-главнокомандующий		commander-in-chief
-дело				case
-депутат\заместитель		deputy
-исполнительный			executive
-защита\оборона			defence
-закон, принимать		pass laws
-законодательный			legislative
-назначать			appoint
-национальное собрание		national assembly
-нижняя\верхняя палата		chamber upper\lower
-общая юрисдикция, суд		universalcourt
-одобрять			approve
-палата представителей		hous of representatives
-подписывать			sing
-помиловать			grand pardon
-представитель			represent
-предложение			suggestion
-предлагать			propose
-председатель			chairman
-противоречить			contradict
-правительство			goverment
-принадлежать чему-то\кому-то	belong to
-республика, совет		council of the republic
-состоять из			be made up of
-суд, конституционный		constitutional court
-судебный			judicial
-суверенитет			sovereignty
-целостность			integity
+ветвь	                      branch
+глава                       head
+гос. награда			          state honour
+гражданский			            civil
+главнокомандующий		        commander-in-chief
+голосовать                  vote
+дело				                case
+депутат\заместитель		      deputy
+исполнительный			        executive
+избирать                    elect
+уголовный                   criminal
+защита\оборона			        defence
+закон, принимать		        pass laws
+законодательный			        legislative
+назначать			              appoint
+национальное собрание		    national assembly
+нижняя\верхняя палата		    chamber upper\lower
+общая юрисдикция, суд		    universalcourt
+одобрять			              approve
+палата представителей		    hous of representatives
+подписывать			            sing
+помиловать			            grand pardon
+представитель			          represent
+предложение			            suggestion
+предлагать			            propose
+председатель			          chairman
+противоречить			          contradict
+правительство			          goverment
+принадлежать чему\кому-то	  belong to
+совет республики 		        council of the republic
+совет безопасности 		      security council
+состоять из			            be made up of
+суд конституционный		      constitutional court
+суд общей юрисдикции        universal court
+судебный			              judicial
+суверенитет			            sovereignty
+целостность			            integity
